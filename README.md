@@ -1,0 +1,1 @@
+# The programme displays in the console: the unique element in an array and how many times it occurs in the array (%)
